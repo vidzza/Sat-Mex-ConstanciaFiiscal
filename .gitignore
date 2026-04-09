@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.pytest_cache/
+.sat_chrome_profile/
+sat_batch.log
+sat_batch.log.*
+constancias/
+clientes.csv
+clientes_ejemplo.csv
+clientes_multi_test.csv
+*.crdownload
